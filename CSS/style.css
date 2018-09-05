@@ -1,0 +1,65 @@
+
+
+.hidden {
+    display: none;
+}
+#snapshot {
+    margin-top: 20px;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: -30px;
+}
+
+textarea  {
+    width: 250px;
+    max-width: 250px;
+    min-width: 150px;
+    height: 30px;
+    max-height: 60px;
+    margin-top: 0;
+    border-radius: 10px;
+    outline: none;
+    font-size: 12px;
+    padding-left: 5px;
+    padding-top: 3px;
+    color: green;
+    font-size: 14px;
+}
+
+textarea::placeholder {
+    font-size: 12px;
+    padding-left: 5px;
+    padding-top: 3px;
+    color: dimgrey;
+}
+
+textarea:focus {
+     font-size: 12px;
+     padding-left: 5px;
+     padding-top: 3px;
+     color: blue;
+ }
+
+p.ta-title {
+    margin-bottom: 0;
+    padding: 0;
+}
+
+h6.ta-title  {
+    margin-bottom: 7px;
+    margin-top: 10px;
+    font-size: 14px;
+    font-style: italic;
+}
+
+.title img {
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+
+@media (min-width: 1000px) { /*only apply this on desktop screens and bigger - not for tablets*/
+    #text-boxes {
+        margin-top: 100px;
+    }
+}

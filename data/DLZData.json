@@ -1,0 +1,158 @@
+[
+  {
+    "ROUTE_GROUP": "150mm",
+    "YIELD": 95.9,
+    "DLZ_07": 62.3,
+    "DLZ_28": 58.1
+  },
+  {
+    "ROUTE_GROUP": "200mm",
+    "YIELD": 96.2,
+    "DLZ_07": 72,
+    "DLZ_28": 68.4
+  },
+  {
+    "ROUTE_GROUP": "A4",
+    "YIELD": 96.9,
+    "DLZ_07": 68.7,
+    "DLZ_28": 63.3
+  },
+  {
+    "ROUTE_GROUP": "A6",
+    "YIELD": 92.7,
+    "DLZ_07": 101.9,
+    "DLZ_28": 89.7
+  },
+  {
+    "ROUTE_GROUP": "A7",
+    "YIELD": 96.5,
+    "DLZ_07": 67,
+    "DLZ_28": 67.4
+  },
+  {
+    "ROUTE_GROUP": "A8",
+    "YIELD": 97.7,
+    "DLZ_07": 167.7,
+    "DLZ_28": 186.8
+  },
+  {
+    "ROUTE_GROUP": "AA",
+    "YIELD": 100,
+    "DLZ_07": 35.9,
+    "DLZ_28": 34.7
+  },
+  {
+    "ROUTE_GROUP": "AB",
+    "YIELD": 94.1,
+    "DLZ_07": 62.8,
+    "DLZ_28": 61.2
+  },
+  {
+    "ROUTE_GROUP": "AD",
+    "YIELD": 100,
+    "DLZ_07": 39.9,
+    "DLZ_28": 38.1
+  },
+  {
+    "ROUTE_GROUP": "AM",
+    "YIELD": 90.5,
+    "DLZ_07": 93.1,
+    "DLZ_28": 58.9
+  },
+  {
+    "ROUTE_GROUP": "AT",
+    "YIELD": 95.7,
+    "DLZ_07": 52.1,
+    "DLZ_28": 53.1
+  },
+  {
+    "ROUTE_GROUP": "B1",
+    "YIELD": 95.4,
+    "DLZ_07": 87,
+    "DLZ_28": 79.2
+  },
+  {
+    "ROUTE_GROUP": "B2",
+    "YIELD": 95.1,
+    "DLZ_07": 57.9,
+    "DLZ_28": 64.1
+  },
+  {
+    "ROUTE_GROUP": "B3",
+    "YIELD": 96.4,
+    "DLZ_07": 65.9,
+    "DLZ_28": 65
+  },
+  {
+    "ROUTE_GROUP": "B4",
+    "YIELD": 95.2,
+    "DLZ_07": 70,
+    "DLZ_28": 65.1
+  },
+  {
+    "ROUTE_GROUP": "BM",
+    "YIELD": 96.5,
+    "DLZ_07": 69.8,
+    "DLZ_28": 71
+  },
+  {
+    "ROUTE_GROUP": "CF",
+    "YIELD": 93.4,
+    "DLZ_07": 58.3,
+    "DLZ_28": 54.5
+  },
+  {
+    "ROUTE_GROUP": "F",
+    "YIELD": 94.5,
+    "DLZ_07": 35.6,
+    "DLZ_28": 37.5
+  },
+  {
+    "ROUTE_GROUP": "F2",
+    "YIELD": 96.7,
+    "DLZ_07": 50.8,
+    "DLZ_28": 42.7
+  },
+  {
+    "ROUTE_GROUP": "FC",
+    "YIELD": null,
+    "DLZ_07": null,
+    "DLZ_28": null
+  },
+  {
+    "ROUTE_GROUP": "FM",
+    "YIELD": 94,
+    "DLZ_07": 64.3,
+    "DLZ_28": 64.1
+  },
+  {
+    "ROUTE_GROUP": "IC200mm",
+    "YIELD": 95,
+    "DLZ_07": 94.5,
+    "DLZ_28": 89.5
+  },
+  {
+    "ROUTE_GROUP": "L2",
+    "YIELD": 96.9,
+    "DLZ_07": 30.4,
+    "DLZ_28": 38
+  },
+  {
+    "ROUTE_GROUP": "LF",
+    "YIELD": 95.7,
+    "DLZ_07": 12.5,
+    "DLZ_28": 14.4
+  },
+  {
+    "ROUTE_GROUP": "MB",
+    "YIELD": 96.7,
+    "DLZ_07": 39.1,
+    "DLZ_28": 30.7
+  },
+  {
+    "ROUTE_GROUP": "PF",
+    "YIELD": 98.8,
+    "DLZ_07": 25.3,
+    "DLZ_28": 34.8
+  }
+]
